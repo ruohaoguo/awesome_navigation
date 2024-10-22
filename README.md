@@ -4,6 +4,7 @@
 <font size=5><center><b> Contents </b> </center></font>
 - [Navigation-LLM](#navigation-llm)
 - [Navigation-OV](#navigation-ov)
+- [Navigation-AV](#navigation-av)
 ---
 
 ## Navigation-LLM
@@ -57,7 +58,6 @@
 | [**ImagineNav: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination**](https://openreview.net/pdf?id=vQFw9ryKyK) | 2024.10 | Submit to ICLR-25 |  |
 
 
-
 ## Navigation-OV
 |  Title  |   Date  |   Venue   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -70,3 +70,30 @@
 | [**Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations**](https://arxiv.org/pdf/2311.17938) | 2023.11 | CVPR-24 |  |
 | [**Prioritized Semantic Learning for Zero-shot Instance Navigation**](https://arxiv.org/pdf/2403.11650) | 2024.03 | ECCV-24 | [GitHub](https://github.com/XinyuSun/PSL-InstanceNav) |
 | [**OVExp: Open Vocabulary Exploration for Object-Oriented Navigation**](https://arxiv.org/pdf/2407.09016) | 2024.07 | ArXiv-24 | [GitHub](https://github.com/OpenRobotLab/OVExp) |
+
+
+## Navigation-AV
+|  Title  |   Date  |   Venue   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [**SoundSpaces: Audio-Visual Navigation in 3D Environments**](https://arxiv.org/pdf/1912.11474) | 2019.12 | ECCV-20 | [GitHub](https://github.com/facebookresearch/sound-spaces) |
+| [**Look, Listen, and Act: Towards Audio-Visual Embodied Navigation**](https://arxiv.org/pdf/1912.11684) | 2019.12 | ICRA-20 |  |
+| [**Learning to Set Waypoints for Audio-Visual Navigation**](https://arxiv.org/pdf/2008.09622) | 2020.08 | ICLR-21 | [GitHub](https://github.com/facebookresearch/sound-spaces) |
+| [**Semantic Audio-Visual Navigation**](https://arxiv.org/pdf/2012.11583) | 2020.12 | CVPR-21 | [GitHub](https://github.com/facebookresearch/sound-spaces) |
+| [**Move2Hear: Active Audio-Visual Source Separation**](https://arxiv.org/pdf/2105.07142) | 2021.05 | ICCV-21 | [GitHub](https://github.com/SAGNIKMJR/move2hear-active-AV-separation) |
+| [**Catch Me If You Hear Me: Audio-Visual Navigation in Complex Unmapped Environments with Moving Sounds**](https://arxiv.org/pdf/2111.14843) | 2021.11 | IRAL-23 | [GitHub](https://github.com/robot-learning-freiburg/Dav-Nav) |
+| [**Active Audio-Visual Separation of Dynamic Sound Sources**](https://arxiv.org/pdf/2202.00850) | 2022.02 | ECCV-22 | [GitHub](https://github.com/SAGNIKMJR/active-av-dynamic-separation) |
+| [**Sound Adversarial Audio-Visual Navigation**](https://arxiv.org/pdf/2202.10910) | 2022.02 | ICLR-22 | [GitHub](https://github.com/yyf17/SAAVN/tree/main) |
+| [**Towards Generalisable Audio Representations for Audio-Visual Navigation**](https://arxiv.org/pdf/2206.00393) | 2022.06 | CVPR-W-22 | [GitHub](https://github.com/ShunqiM/AV-GeN) |
+| [**Finding Fallen Objects Via Asynchronous Audio-Visual Integration**](https://arxiv.org/pdf/2207.03483) | 2022.07 | CVPR-22 | [GitHub](https://github.com/chuangg/find_fallen_objects) |
+| [**Pay Self-Attention to Audio-Visual Navigation**](https://arxiv.org/pdf/2210.01353) | 2022.10 | BMVC-22 |  |
+| [**AVLEN: Audio-Visual-Language Embodied Navigation in 3D Environments**](https://arxiv.org/pdf/2210.07940) | 2022.10 | NeurIPS-22 | [GitHub](https://github.com/merlresearch/avlen) |
+| [**Towards Versatile Embodied Navigation**](https://arxiv.org/pdf/2210.16822) | 2022.10 | NeurIPS-22 | [GitHub](https://github.com/hanqingwangai/VXN) |
+| [**Knowledge-driven Scene Priors for Semantic Audio-Visual Embodied Navigation**](https://arxiv.org/pdf/2212.11345) | 2022.12 | ArXiv-22 | [GitHub](https://github.com/SAGNIKMJR/active-av-dynamic-separation) |
+| [**Learning Semantic-Agnostic and Spatial-Aware Representation for Generalizable Visual-Audio Navigation**](https://arxiv.org/pdf/2304.10773) | 2023.04 | IRAL-23 |  |
+| [**CAVEN: An Embodied Conversational Agent for Efficient Audio-Visual Navigation in Noisy Environments**](https://arxiv.org/pdf/2306.04047) | 2023.06 | AAAI-24 |  |
+| [**Multi-goal Audio-visual Navigation using Sound Direction Map**](https://arxiv.org/pdf/2308.00219) | 2023.08 | IROS-23 |  |
+| [**Sim2Real Transfer for Audio-Visual Navigation with Frequency-Adaptive Acoustic Field Prediction**](https://arxiv.org/pdf/2405.02821) | 2024.05 | IROS-24 |  |
+| [**RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation**]([https://arxiv.org/pdf/2202.00850](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_RILA_Reflective_and_Imaginative_Language_Agent_for_Zero-Shot_Semantic_Audio-Visual_CVPR_2024_paper.pdf)) | 2024.06 | CVPR-24 |  |
+
+
+
