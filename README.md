@@ -34,6 +34,7 @@
 | [**ThinkBot: Embodied Instruction Following with Thought Chain Reasoning**](https://arxiv.org/pdf/2312.07062) | 2023.12 | Submit to ICLR-25 |  |
 | [**Towards Learning a Generalist Model for Embodied Navigation**](https://arxiv.org/pdf/2312.02010) | 2023.12 | CVPR-24 | [GitHub](https://github.com/zd11024/NaviLLM) |
 | [**VoroNav: Voronoi-based Zero-shot Object Navigation with Large Language Model**](https://arxiv.org/pdf/2401.02695) | 2024.01 | ICML-24 |  |
+| [**MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation**](https://arxiv.org/pdf/2401.07314) | 2024.01 | ACL-24 | [GitHub](https://github.com/chen-judge/MapGPT/) |
 | [**OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models**](https://arxiv.org/pdf/2402.10670) | 2024.02 | NAACL-24 | [GitHub](https://github.com/yxKryptonite/OpenFMNav) |
 | [**Verifiably Following Complex Robot Instructions with Foundation Models**](https://arxiv.org/pdf/2402.11498) | 2024.02 | ArXiv-24 |  |
 | [**DOZE: A Dataset for Open-Vocabulary Zero-Shot Object Navigation in Dynamic Environments**](https://arxiv.org/pdf/2402.19007) | 2024.02 | IRAL-24 | [GitHub](https://github.com/JiMa25/DOZE-Dataset) |
@@ -50,6 +51,7 @@
 | [**BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes**](https://arxiv.org/pdf/2409.16484) | 2024.09 | ArXiv-24 | [GitHub](https://github.com/GAMMA-UMD-Outdoor-Navigation/BehAV) |
 | [**ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation**](https://arxiv.org/pdf/2409.13682) | 2024.09 | ArXiv-24 | [GitHub](https://github.com/NVIDIA-AI-IOT/remembr) |
 | [**Tag Map: A Text-Based Map for Spatial Reasoning and Navigation with Large Language Models**](https://arxiv.org/pdf/2409.15451) | 2024.09 | CoRL-24 |  |
+| [**Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs**](https://arxiv.org/pdf/2409.18794) | 2024.09 | ArXiv-24 |  |
 | [**Find Everything: A General Vision Language Model Approach to Multi-Object Search**](https://arxiv.org/pdf/2410.00388) | 2024.10 | ICRA-25 | [GitHub](https://find-all-my-things.github.io/) |
 | [**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**](https://arxiv.org/pdf/2410.02730) | 2024.10 | ArXiv-24 | [GitHub](https://github.com/zhaowei-wang-nlp/DivScene) |
 | [**ImagineNav: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination**](https://openreview.net/pdf?id=vQFw9ryKyK) | 2024.10 | Submit to ICLR-25 |  |
