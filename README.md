@@ -93,7 +93,7 @@
 | [**CAVEN: An Embodied Conversational Agent for Efficient Audio-Visual Navigation in Noisy Environments**](https://arxiv.org/pdf/2306.04047) | 2023.06 | AAAI-24 |  |
 | [**Multi-goal Audio-visual Navigation using Sound Direction Map**](https://arxiv.org/pdf/2308.00219) | 2023.08 | IROS-23 |  |
 | [**Sim2Real Transfer for Audio-Visual Navigation with Frequency-Adaptive Acoustic Field Prediction**](https://arxiv.org/pdf/2405.02821) | 2024.05 | IROS-24 |  |
-| [**RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation**]([https://arxiv.org/pdf/2202.00850](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_RILA_Reflective_and_Imaginative_Language_Agent_for_Zero-Shot_Semantic_Audio-Visual_CVPR_2024_paper.pdf)) | 2024.06 | CVPR-24 |  |
+| [**RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_RILA_Reflective_and_Imaginative_Language_Agent_for_Zero-Shot_Semantic_Audio-Visual_CVPR_2024_paper.pdf) | 2024.06 | CVPR-24 |  |
 
 
 
