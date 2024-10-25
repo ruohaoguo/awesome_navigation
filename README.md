@@ -12,11 +12,12 @@
 ## Review
 |  Title  |   Date  |   Venue   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-| [**Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions**](https://arxiv.org/pdf/2203.12667) | 2022.03 | ACL-22 | [GitHub](https://github.com/eric-ai-lab/awesome-vision-language-navigation) |
+| 🔥[**Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions**](https://arxiv.org/pdf/2203.12667) | 2022.03 | ACL-22 | [GitHub](https://github.com/eric-ai-lab/awesome-vision-language-navigation) |
 | [**Advances in Embodied Navigation Using Large Language Models: A Survey**](https://arxiv.org/pdf/2311.00530) | 2023.11 | EAAI-24 | [GitHub](https://github.com/Rongtao-Xu/Awesome-LLM-EN) |
-| [**A Survey of Object Goal Navigation**](https://ieeexplore.ieee.org/document/10475904) | 2024.03 | TASE-24 |  |
+| 🔥[**Large Multimodal Agents: A Survey**](https://arxiv.org/pdf/2402.15116) | 2024.02 | ArXiv-24 | [GitHub](https://github.com/jun0wanan/awesome-large-multimodal-agents) |
+| 🔥[**A Survey of Object Goal Navigation**](https://ieeexplore.ieee.org/document/10475904) | 2024.03 | TASE-24 |  |
 | [**Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models**](https://arxiv.org/pdf/2407.07035) | 2024.07 | ArXiv-24 |  |
-| [**Recent Advances in Robot Navigation via Large Language Models: A Review**](https://www.researchgate.net/publication/384537380_Recent_Advances_in_Robot_Navigation_via_Large_Language_Models_A_Review) | 2024.10 | ArXiv-24 |  |
+| 🔥🔥🔥[**Recent Advances in Robot Navigation via Large Language Models: A Review**](https://www.researchgate.net/publication/384537380_Recent_Advances_in_Robot_Navigation_via_Large_Language_Models_A_Review) | 2024.10 | ArXiv-24 |  |
 | [**Embodied navigation with multi-modal information: A survey from tasks to methodology**](https://arxiv.org/pdf/2203.12667) | 2024.12 | IF-24 | [GitHub](https://github.com/eric-ai-lab/awesome-vision-language-navigation) |
 
 
