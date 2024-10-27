@@ -71,6 +71,7 @@
 | [**Find Everything: A General Vision Language Model Approach to Multi-Object Search**](https://arxiv.org/pdf/2410.00388) | 2024.10 | ICRA-25 | [GitHub](https://find-all-my-things.github.io/) |
 | [**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**](https://arxiv.org/pdf/2410.02730) | 2024.10 | ArXiv-24 | [GitHub](https://github.com/zhaowei-wang-nlp/DivScene) |
 | [**ImagineNav: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination**](https://openreview.net/pdf?id=vQFw9ryKyK) | 2024.10 | Submit to ICLR-25 |  |
+| [**Zero-shot Object Navigation with Vision-Language Models Reasoning**](https://arxiv.org/pdf/2410.18570v1) | 2024.10 | ICPR-24 |  |
 
 
 ## Navigation-OV
