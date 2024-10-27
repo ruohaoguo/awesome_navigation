@@ -33,7 +33,7 @@
 | [**Can an Embodied Agent Find Your "Cat-shaped Mug"? LLM-Guided Exploration for Zero-Shot Object Navigation**](https://arxiv.org/pdf/2303.03480) | 2023.03 | IRAL-24 | [GitHub](https://github.com/vdorbala/LGX) |
 | [**L3MVN: Leveraging Large Language Models for Visual Target Navigation**](https://arxiv.org/pdf/2304.05501) | 2023.04 | IROS-23 | [GitHub](https://github.com/ybgdgh/L3MVN) |
 | [**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**](https://arxiv.org/pdf/2305.16986) | 2023.05 | AAAI-24 | [GitHub](https://github.com/GengzeZhou/NavGPT) |
-| [**CorNav: Autonomous Agent with Self-Corrected Planning for Zero-Shot Vision-and-Language Navigation**](https://arxiv.org/pdf/2306.10322) | 2023.06 | ArXiv-23 | [GitHub](https://github.com/mligg23/CorNav-Site) |
+| [**CorNav: Autonomous Agent with Self-Corrected Planning for Zero-Shot Vision-and-Language Navigation**](https://arxiv.org/pdf/2306.10322) | 2023.06 | ACL-F-24 | [GitHub](https://github.com/mligg23/CorNav-Site) |
 | [**VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View**](https://arxiv.org/pdf/2307.06082) | 2023.07 | AAAI-24 | [GitHub](https://github.com/raphael-sch/VELMA) |
 | [**A2 Nav: Action-Aware Zero-Shot Robot Navigation by Exploiting Vision-and-Language Ability of Foundation Models**](https://arxiv.org/pdf/2308.07997) | 2023.08 | NeurIPS-W-23 |  |
 | [**March in Chat: Interactive Prompting for Remote Embodied Referring Expression**](https://arxiv.org/pdf/2308.10141) | 2023.08 | ICCV-23 | [GitHub](https://github.com/YanyuanQiao/MiC) |
