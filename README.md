@@ -25,7 +25,7 @@
 ## Navigation-LLM
 |  Title  |   Date  |   Venue   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-| [**LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action**](https://arxiv.org/pdf/2207.04429) | 2022.07 | PMLR-23 | [GitHub](https://github.com/blazejosinski/lm_nav) |
+| [**LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action**](https://arxiv.org/pdf/2207.04429) | 2022.07 | CoRL-22 | [GitHub](https://github.com/blazejosinski/lm_nav) |
 | [**Visual Language Maps for Robot Navigation**](https://arxiv.org/pdf/2210.05714) | 2022.10 | ICRA-23 | [GitHub](https://github.com/vlmaps/vlmaps) |
 | [**SQA3D: Situated Question Answering in 3D Scenes**](https://arxiv.org/pdf/2210.07474) | 2022.10 | ICLR-23 | [GitHub](https://github.com/SilongYong/SQA3D) |
 | [**CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation**](https://arxiv.org/pdf/2211.16649) | 2022.11 | CoRL-W-22 |  |
