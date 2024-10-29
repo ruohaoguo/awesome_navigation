@@ -44,7 +44,7 @@
 | [**Find What You Want: Learning Demand-conditioned Object Attribute Space for Demand-driven Navigation**](https://arxiv.org/pdf/2309.08138) | 2023.09 | NeurIPS-23 | [GitHub](https://github.com/whcpumpkin/Demand-driven-navigation) |
 | [**Reasoning about the Unseen for Efficient Outdoor Object Navigation**](https://arxiv.org/pdf/2309.10103) | 2023.09 | ArXiv-23 | [GitHub](https://github.com/quantingxie/ReasonedExplorer) |
 | [**Multimodal Large Language Model for Visual Navigation**](https://arxiv.org/pdf/2310.08669) | 2023.10 | ArXiv-23 |  |
-| [**LangNav: Language as a Perceptual Representation for Navigation**](https://arxiv.org/pdf/2310.07889) | 2023.10 | ArXiv-23 |  |
+| [**LangNav: Language as a Perceptual Representation for Navigation**](https://arxiv.org/pdf/2310.07889) | 2023.10 | NAACL-F-24 | [GitHub](https://github.com/pbw-Berwin/LangNav) |
 | [**Vision and Language Navigation in the Real World via Online Visual Language Mapping**](https://arxiv.org/pdf/2310.10822) | 2023.10 | ArXiv-23 |  |
 | [**Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning**](https://arxiv.org/pdf/2310.10103) | 2023.10 | CoRL-23 | [GitHub](https://github.com/Michael-Equi/lfg-nav) |
 | [**ThinkBot: Embodied Instruction Following with Thought Chain Reasoning**](https://arxiv.org/pdf/2312.07062) | 2023.12 | Submit to ICLR-25 |  |
