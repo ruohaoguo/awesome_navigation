@@ -58,7 +58,6 @@
 | [**Leveraging Large Language Model-based Room-Object Relationships Knowledge for Enhancing Multimodal-Input Object Goal Navigation**](https://arxiv.org/pdf/2403.14163) | 2024.03 | Submit to AEI-24 |  |
 | [**Correctable Landmark Discovery via Large Models for Vision-Language Navigation**](https://arxiv.org/pdf/2405.18721) | 2024.05 | TPAMI-24 | [GitHub](https://github.com/expectorlin/CONSOLE) |
 | [**InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment**](https://arxiv.org/pdf/2406.04882) | 2024.06 | CoRL-24 | [GitHub](https://github.com/LYX0501/InstructNav) |
-| [**MAGIC: Meta-Ability Guided Interactive Chain-of-Distillation for Effective-and-Efficient Vision-and-Language Navigation**](https://arxiv.org/pdf/2406.17960) | 2024.06 | ArXiv-24 | [GitHub](https://github.com/CrystalSixone/VLN-MAGIC) |
 | [**Navi2Gaze: Leveraging Foundation Models for Navigation and Target Gazing**](https://arxiv.org/pdf/2407.09053) | 2024.07 | ArXiv-24 | [GitHub](https://github.com/zhujun3753/Navi2Gaze) |
 | [**TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation**](https://arxiv.org/pdf/2402.10670) | 2024.08 | IROS-24 |  |
 | [**Perceive, Reflect, and Plan: Designing LLM Agent for Goal-Directed City Navigation without Instructions**](https://arxiv.org/pdf/2408.04168) | 2024.08 | ArXiv-24 | [GitHub](https://anonymous.4open.science/r/PReP-13B5/readme.md) |
