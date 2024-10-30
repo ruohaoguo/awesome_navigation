@@ -61,7 +61,6 @@
 | [**Navi2Gaze: Leveraging Foundation Models for Navigation and Target Gazing**](https://arxiv.org/pdf/2407.09053) | 2024.07 | ArXiv-24 | [GitHub](https://github.com/zhujun3753/Navi2Gaze) |
 | [**TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation**](https://www.arxiv.org/pdf/2408.01867) | 2024.08 | IROS-24 |  |
 | [**Perceive, Reflect, and Plan: Designing LLM Agent for Goal-Directed City Navigation without Instructions**](https://arxiv.org/pdf/2408.04168) | 2024.08 | ArXiv-24 | [GitHub](https://anonymous.4open.science/r/PReP-13B5/readme.md) |
-| [**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**](https://arxiv.org/pdf/2408.11380) | 2024.08 | AR-24 |  |
 | [**NOLO: Navigate Only Look Once**](https://arxiv.org/pdf/2408.01384) | 2024.08 | AR-24 |  |
 | [**BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes**](https://arxiv.org/pdf/2409.16484) | 2024.09 | ArXiv-24 | [GitHub](https://github.com/GAMMA-UMD-Outdoor-Navigation/BehAV) |
 | [**ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation**](https://arxiv.org/pdf/2409.13682) | 2024.09 | ArXiv-24 | [GitHub](https://github.com/NVIDIA-AI-IOT/remembr) |
