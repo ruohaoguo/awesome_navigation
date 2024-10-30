@@ -55,7 +55,7 @@
 | [**Verifiably Following Complex Robot Instructions with Foundation Models**](https://arxiv.org/pdf/2402.11498) | 2024.02 | ArXiv-24 |  |
 | [**DOZE: A Dataset for Open-Vocabulary Zero-Shot Object Navigation in Dynamic Environments**](https://arxiv.org/pdf/2402.19007) | 2024.02 | IRAL-24 | [GitHub](https://github.com/JiMa25/DOZE-Dataset) |
 | [**TriHelper: Zero-Shot Object Navigation with Dynamic Assistance**](https://arxiv.org/pdf/2403.15223) | 2024.03 | IROS-24 |  |
-| [**Leveraging Large Language Model-based Room-Object Relationships Knowledge for Enhancing Multimodal-Input Object Goal Navigation**](https://arxiv.org/pdf/2403.14163) | 2024.03 | Submit to AEI-24 | [GitHub](https://github.com/yxKryptonite/OpenFMNav) |
+| [**Leveraging Large Language Model-based Room-Object Relationships Knowledge for Enhancing Multimodal-Input Object Goal Navigation**](https://arxiv.org/pdf/2403.14163) | 2024.03 | Submit to AEI-24 |  |
 | [**Correctable Landmark Discovery via Large Models for Vision-Language Navigation**](https://arxiv.org/pdf/2405.18721) | 2024.05 | TPAMI-24 | [GitHub](https://github.com/expectorlin/CONSOLE) |
 | [**InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment**](https://arxiv.org/pdf/2406.04882) | 2024.06 | CoRL-24 | [GitHub](https://github.com/LYX0501/InstructNav) |
 | [**MAGIC: Meta-Ability Guided Interactive Chain-of-Distillation for Effective-and-Efficient Vision-and-Language Navigation**](https://arxiv.org/pdf/2406.17960) | 2024.06 | ArXiv-24 | [GitHub](https://github.com/CrystalSixone/VLN-MAGIC) |
