@@ -61,14 +61,12 @@
 | [**Navi2Gaze: Leveraging Foundation Models for Navigation and Target Gazing**](https://arxiv.org/pdf/2407.09053) | 2024.07 | ArXiv-24 | [GitHub](https://github.com/zhujun3753/Navi2Gaze) |
 | [**TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation**](https://www.arxiv.org/pdf/2408.01867) | 2024.08 | IROS-24 |  |
 | [**Perceive, Reflect, and Plan: Designing LLM Agent for Goal-Directed City Navigation without Instructions**](https://arxiv.org/pdf/2408.04168) | 2024.08 | ArXiv-24 | [GitHub](https://anonymous.4open.science/r/PReP-13B5/readme.md) |
-| [**NOLO: Navigate Only Look Once**](https://arxiv.org/pdf/2408.01384) | 2024.08 | AR-24 |  |
 | [**BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes**](https://arxiv.org/pdf/2409.16484) | 2024.09 | ArXiv-24 | [GitHub](https://github.com/GAMMA-UMD-Outdoor-Navigation/BehAV) |
 | [**ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation**](https://arxiv.org/pdf/2409.13682) | 2024.09 | ArXiv-24 | [GitHub](https://github.com/NVIDIA-AI-IOT/remembr) |
 | [**Tag Map: A Text-Based Map for Spatial Reasoning and Navigation with Large Language Models**](https://arxiv.org/pdf/2409.15451) | 2024.09 | CoRL-24 |  |
 | [**Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs**](https://arxiv.org/pdf/2409.18794) | 2024.09 | ArXiv-24 |  |
 | [**Find Everything: A General Vision Language Model Approach to Multi-Object Search**](https://arxiv.org/pdf/2410.00388) | 2024.10 | ICRA-25 | [GitHub](https://find-all-my-things.github.io/) |
 | [**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**](https://arxiv.org/pdf/2410.02730) | 2024.10 | ArXiv-24 | [GitHub](https://github.com/zhaowei-wang-nlp/DivScene) |
-| [**ImagineNav: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination**](https://openreview.net/pdf?id=vQFw9ryKyK) | 2024.10 | Submit to ICLR-25 |  |
 | [**Zero-shot Object Navigation with Vision-Language Models Reasoning**](https://arxiv.org/pdf/2410.18570v1) | 2024.10 | ICPR-24 |  |
 
 
