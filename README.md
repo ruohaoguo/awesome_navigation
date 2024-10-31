@@ -93,7 +93,6 @@
 | [**Semantic Audio-Visual Navigation**](https://arxiv.org/pdf/2012.11583) | 2020.12 | CVPR-21 | [GitHub](https://github.com/facebookresearch/sound-spaces) |
 | [**Move2Hear: Active Audio-Visual Source Separation**](https://arxiv.org/pdf/2105.07142) | 2021.05 | ICCV-21 | [GitHub](https://github.com/SAGNIKMJR/move2hear-active-AV-separation) |
 | [**Catch Me If You Hear Me: Audio-Visual Navigation in Complex Unmapped Environments with Moving Sounds**](https://arxiv.org/pdf/2111.14843) | 2021.11 | IRAL-23 | [GitHub](https://github.com/robot-learning-freiburg/Dav-Nav) |
-| [**Active Audio-Visual Separation of Dynamic Sound Sources**](https://arxiv.org/pdf/2202.00850) | 2022.02 | ECCV-22 | [GitHub](https://github.com/SAGNIKMJR/active-av-dynamic-separation) |
 | [**Sound Adversarial Audio-Visual Navigation**](https://arxiv.org/pdf/2202.10910) | 2022.02 | ICLR-22 | [GitHub](https://github.com/yyf17/SAAVN/tree/main) |
 | [**Towards Generalisable Audio Representations for Audio-Visual Navigation**](https://arxiv.org/pdf/2206.00393) | 2022.06 | CVPR-W-22 | [GitHub](https://github.com/ShunqiM/AV-GeN) |
 | [**Finding Fallen Objects Via Asynchronous Audio-Visual Integration**](https://arxiv.org/pdf/2207.03483) | 2022.07 | CVPR-22 | [GitHub](https://github.com/chuangg/find_fallen_objects) |
@@ -101,6 +100,7 @@
 | [**AVLEN: Audio-Visual-Language Embodied Navigation in 3D Environments**](https://arxiv.org/pdf/2210.07940) | 2022.10 | NeurIPS-22 | [GitHub](https://github.com/merlresearch/avlen) |
 | [**Towards Versatile Embodied Navigation**](https://arxiv.org/pdf/2210.16822) | 2022.10 | NeurIPS-22 | [GitHub](https://github.com/hanqingwangai/VXN) |
 | [**Knowledge-driven Scene Priors for Semantic Audio-Visual Embodied Navigation**](https://arxiv.org/pdf/2212.11345) | 2022.12 | ArXiv-22 | [GitHub](https://github.com/SAGNIKMJR/active-av-dynamic-separation) |
+| [**Audio Visual Language Maps for Robot Navigation**](https://arxiv.org/pdf/2303.07522) | 2023.03 | ISER-23 | [GitHub](https://github.com/avlmaps/AVLMaps) |
 | [**Learning Semantic-Agnostic and Spatial-Aware Representation for Generalizable Visual-Audio Navigation**](https://arxiv.org/pdf/2304.10773) | 2023.04 | IRAL-23 |  |
 | [**CAVEN: An Embodied Conversational Agent for Efficient Audio-Visual Navigation in Noisy Environments**](https://arxiv.org/pdf/2306.04047) | 2023.06 | AAAI-24 |  |
 | [**Multi-goal Audio-visual Navigation using Sound Direction Map**](https://arxiv.org/pdf/2308.00219) | 2023.08 | IROS-23 |  |
