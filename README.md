@@ -91,7 +91,6 @@
 | [**Look, Listen, and Act: Towards Audio-Visual Embodied Navigation**](https://arxiv.org/pdf/1912.11684) | 2019.12 | ICRA-20 |  |
 | [**Learning to Set Waypoints for Audio-Visual Navigation**](https://arxiv.org/pdf/2008.09622) | 2020.08 | ICLR-21 | [GitHub](https://github.com/facebookresearch/sound-spaces) |
 | [**Semantic Audio-Visual Navigation**](https://arxiv.org/pdf/2012.11583) | 2020.12 | CVPR-21 | [GitHub](https://github.com/facebookresearch/sound-spaces) |
-| [**Move2Hear: Active Audio-Visual Source Separation**](https://arxiv.org/pdf/2105.07142) | 2021.05 | ICCV-21 | [GitHub](https://github.com/SAGNIKMJR/move2hear-active-AV-separation) |
 | [**Catch Me If You Hear Me: Audio-Visual Navigation in Complex Unmapped Environments with Moving Sounds**](https://arxiv.org/pdf/2111.14843) | 2021.11 | IRAL-23 | [GitHub](https://github.com/robot-learning-freiburg/Dav-Nav) |
 | [**Sound Adversarial Audio-Visual Navigation**](https://arxiv.org/pdf/2202.10910) | 2022.02 | ICLR-22 | [GitHub](https://github.com/yyf17/SAAVN/tree/main) |
 | [**Towards Generalisable Audio Representations for Audio-Visual Navigation**](https://arxiv.org/pdf/2206.00393) | 2022.06 | CVPR-W-22 | [GitHub](https://github.com/ShunqiM/AV-GeN) |
