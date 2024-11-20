@@ -16,6 +16,7 @@
 | [**Advances in Embodied Navigation Using Large Language Models: A Survey**](https://arxiv.org/pdf/2311.00530) | 2023.11 | EAAI-24 | [GitHub](https://github.com/Rongtao-Xu/Awesome-LLM-EN) |
 | 🔥[**Large Multimodal Agents: A Survey**](https://arxiv.org/pdf/2402.15116) | 2024.02 | ArXiv-24 | [GitHub](https://github.com/jun0wanan/awesome-large-multimodal-agents) |
 | 🔥[**A Survey of Object Goal Navigation**](https://ieeexplore.ieee.org/document/10475904) | 2024.03 | TASE-24 |  |
+| 🔥[**Large Language Model based Multi-Agents: A Survey of Progress and Challenges**](https://arxiv.org/pdf/2402.01680) | 2024.04 | IJCAI-24 | [GitHub](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers) |
 | [**LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions**](https://arxiv.org/pdf/2405.11106) | 2024.05 | IRAL-24 |  |
 | [**Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models**](https://arxiv.org/pdf/2407.07035) | 2024.07 | ArXiv-24 |  |
 | 🔥🔥🔥[**Recent Advances in Robot Navigation via Large Language Models: A Review**](https://www.researchgate.net/publication/384537380_Recent_Advances_in_Robot_Navigation_via_Large_Language_Models_A_Review) | 2024.10 | ArXiv-24 |  |
@@ -105,26 +106,8 @@
 | Old+Nav | [**Multi-Agent Embodied Visual Semantic Navigation with Scene Prior Knowledge**](https://arxiv.org/pdf/2109.09531) | 2021.09 | ArXiv-21 | 
 | Old+Nav | [**Learning Efficient Multi-Agent Cooperative Visual Exploration**](https://arxiv.org/pdf/2110.05734) | 2021.10 | ECCV-22 | [GitHub](https://github.com/zoeyuchao/maans) |
 | Old+Nav | [**Multi-Robot Active Mapping via Neural Bipartite Graph Matching**](https://arxiv.org/pdf/2203.16319) | 2022.03 | CVPR-22 | [GitHub](https://github.com/siyandong/NeuralCoMapping) |
-| 🔥LLM+Nav | [**Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation**](https://arxiv.org/pdf/2403.08282) | 2023.04 | ICLR-W-23 | |
-| LLM+Other | [**RoCo: Dialectic Multi-Robot Collaboration with Large Language Models**](https://arxiv.org/pdf/2307.04738) | 2023.07 | ArXiv-23 | [GitHub](https://github.com/MandiZhao/robot-collab) |
-| LLM+Other | [**Building Cooperative Embodied Agents Modularly with Large Language Models**](https://arxiv.org/pdf/2307.02485) | 2023.07 | ICLR-24 | [GitHub](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/) |
-| LLM+Other | [**Heterogeneous Embodied Multi-Agent Collaboration**](https://arxiv.org/pdf/2307.13957) | 2023.07 | IRAL-24 |  |
-| LLM+Other | [**AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation**](https://openreview.net/pdf?id=BAakY1hNKS) | 2023.09 | COLM-24 | [GitHub](https://github.com/microsoft/autogen) |
-| LLM+Other | [**Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems?**](https://arxiv.org/pdf/2309.15943) | 2023.09 | ICRA-24 | [GitHub](https://github.com/yongchao98/multi-agent-framework) |
-| 🔥LLM+Nav | [**Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models**](https://arxiv.org/pdf/2310.07937) | 2023.10 | ArXiv-23 | [GitHub](https://github.com/ybgdgh/Co-NavGPT) |
-| LLM+Other | [**LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models**](https://arxiv.org/pdf/2310.03903) | 2023.10 | ArXiv-23 | [GitHub](https://github.com/eric-ai-lab/llm_coordination) |
-| LLM+Other | [**Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach**](https://arxiv.org/pdf/2311.13884) | 2023.11 | ArXiv-23 | |
 | Old+Nav | [**MASP: Scalable GNN-based Planning for Multi-Agent Navigation**](https://arxiv.org/pdf/2312.02522) | 2023.12 | IRAL-24 | |
-| LLM+Other | [**Safe Task Planning for Language-Instructed Multi-Robot Systems using Conformal Prediction**](https://arxiv.org/pdf/2402.15368) | 2024.02 | ArXiv-24 | |
-| LLM+Other | [**GOMA: Proactive Embodied Cooperative Communication via Goal-Oriented Mental Alignment**](https://arxiv.org/pdf/2403.11075) | 2024.03 | ArXiv-24 | |
-| LLM+Other | [**Embodied LLM Agents Learn to Cooperate in Organized Teams**](https://arxiv.org/pdf/2403.12482) | 2024.03 | ArXiv-24 | [GitHub](https://github.com/tobeatraceur/Organized-LLM-Agents) |
-| 🔥LLM+Nav | [**CAMON: Cooperative Agents for Multi-Object Navigation with LLM-based Conversations**](https://arxiv.org/pdf/2407.00632) | 2024.06 | ArXiv-24 | |
-| LLM+Other | [**Multi-agent Planning using Visual Language Models**](https://arxiv.org/pdf/2407.00632) | 2024.06 | RSS-W-24 | |
-| LLM+Other | [**FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making**](https://arxiv.org/pdf/2407.06567) | 2024.07 | ArXiv-25 | |
-| LLM+Other | [**Scaling Up Natural Language Understanding for Multi-Robots Through the Lens of Hierarchy**](https://arxiv.org/pdf/2408.08188) | 2024.08 | ArXiv-24 | |
-| LLM+Other | [**COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models**](https://arxiv.org/pdf/2409.15146) | 2024.09 | ICRA-25 | [GitHub](https://github.com/MrKeee/COHERENT) |
-| LLM+Other | [**MHRC: Closed-loop Decentralized Multi-Heterogeneous Robot Collaboration with Large Language Models**](https://arxiv.org/pdf/2409.16030) | 2024.09 | ArXiv-25 | |
-| LLM+Other | [**LiP-LLM: Integrating Linear Programming and dependency graph with Large Language Models for multi-robot task planning**](https://arxiv.org/pdf/2410.21040) | 2024.10 | ArXiv-24 | |
-| LLM+Other | [**CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation**](https://arxiv.org/pdf/2411.04679) | 2024.11 | ArXiv-24 | |
-
+| LLM+Nav | [**Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation**](https://arxiv.org/pdf/2403.08282) | 2023.04 | ICLR-W-23 | |
+| 🔥LLM+Nav | [**Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models**](https://arxiv.org/pdf/2310.07937) | 2023.10 | ArXiv-23 | [GitHub](https://github.com/ybgdgh/Co-NavGPT) |
+| LLM+Nav | [**CAMON: Cooperative Agents for Multi-Object Navigation with LLM-based Conversations**](https://arxiv.org/pdf/2407.00632) | 2024.06 | ArXiv-24 | |
 
