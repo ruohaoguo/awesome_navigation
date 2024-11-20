@@ -101,6 +101,10 @@
 ## Navigation-MultiAgents
 |  Title  |   Date  |   Venue   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-| [**SoundSpaces: Audio-Visual Navigation in 3D Environments**](https://arxiv.org/pdf/1912.11474) | 2019.12 | ECCV-20 | [GitHub](https://github.com/facebookresearch/sound-spaces) |
+| [**Multi-Agent Embodied Visual Semantic Navigation with Scene Prior Knowledge**](https://arxiv.org/pdf/2109.09531) | 2021.09 | ArXiv-21 | 
+| [**Learning Efficient Multi-Agent Cooperative Visual Exploration**](https://arxiv.org/pdf/2110.05734) | 2021.10 | ECCV-22 | [GitHub](https://github.com/zoeyuchao/maans) |
+| [**Multi-Robot Active Mapping via Neural Bipartite Graph Matching**](https://arxiv.org/pdf/2203.16319) | 2022.03 | CVPR-22 | [GitHub](https://github.com/siyandong/NeuralCoMapping) |
+| [**Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models**](https://arxiv.org/pdf/2310.07937) | 2023.10 | ArXiv-23 | [GitHub](https://github.com/ybgdgh/Co-NavGPT) |
+
 
 
