@@ -3,9 +3,9 @@
 ---
 <font size=5><center><b> Contents </b> </center></font>
 - [Review](#review)
-- [Navigation-LLM](#navigation-llm)
-- [Navigation-OV](#navigation-ov)
-- [Navigation-AV](#navigation-av)
+- [Navigation-LargeLanguageModels](#navigation-largelanguamodels)
+- [Navigation-AudioVisual](#navigation-audiovisual)
+- [Navigation-MultiAgents](#navigation-multiagents)
 ---
 
 
@@ -22,7 +22,7 @@
 
 
 
-## Navigation-LLM
+## Navigation-LargeLanguageModels
 |  Title  |   Date  |   Venue   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [**LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action**](https://arxiv.org/pdf/2207.04429) | 2022.07 | CoRL-22 | [GitHub](https://github.com/blazejosinski/lm_nav) |
@@ -72,21 +72,8 @@
 | [**LLM as Copilot for Coarse-Grained Vision-and-Language Navigation**](https://link.springer.com/content/pdf/10.1007/978-3-031-72652-1_27.pdf) | 2024.11 | ECCV-24 |  |
 
 
-## Navigation-OV
-|  Title  |   Date  |   Venue   |   Code   |
-|:--------|:--------:|:--------:|:--------:|
-| [**Simple but Effective: CLIP Embeddings for Embodied AI**](https://arxiv.org/pdf/2111.09888) | 2021.11 | CVPR-22 | [GitHub](https://github.com/allenai/embodied-clip) |
-| [**Zero Experience Required: Plug & Play Modular Transfer Learning for Semantic Visual Navigation**](https://arxiv.org/pdf/2202.02440) | 2022.02 | CVPR-22 | [GitHub](https://github.com/ziadalh/zero_experience_required) |
-| [**CoWs on Pasture: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation**](https://arxiv.org/pdf/2203.10421) | 2022.03 | CVPR-23 | [GitHub](https://github.com/real-stanford/cow) |
-| [**ZSON: Zero-Shot Object-Goal Navigation using Multimodal Goal Embeddings**](https://arxiv.org/pdf/2206.12403) | 2022.06 | NeurIPS-22 | [GitHub](https://github.com/gunagg/zson) |
-| [**Zero-Shot Object Searching Using Large-scale Object Relationship Prior**](https://arxiv.org/pdf/2303.06228) | 2023.03 | ArXiv-23 |  |
-| [**Semantic Policy Network for Zero-Shot Object Goal Visual Navigation**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10265178) | 2023.09 | IRAL-23 |  |
-| [**Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations**](https://arxiv.org/pdf/2311.17938) | 2023.11 | CVPR-24 |  |
-| [**Prioritized Semantic Learning for Zero-shot Instance Navigation**](https://arxiv.org/pdf/2403.11650) | 2024.03 | ECCV-24 | [GitHub](https://github.com/XinyuSun/PSL-InstanceNav) |
-| [**OVExp: Open Vocabulary Exploration for Object-Oriented Navigation**](https://arxiv.org/pdf/2407.09016) | 2024.07 | ArXiv-24 | [GitHub](https://github.com/OpenRobotLab/OVExp) |
 
-
-## Navigation-AV
+## Navigation-AudioVisual
 |  Title  |   Date  |   Venue   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [**SoundSpaces: Audio-Visual Navigation in 3D Environments**](https://arxiv.org/pdf/1912.11474) | 2019.12 | ECCV-20 | [GitHub](https://github.com/facebookresearch/sound-spaces) |
@@ -110,5 +97,10 @@
 | [**TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation**](https://www.arxiv.org/pdf/2408.01867) | 2024.08 | IROS-24 |  |
 
 
+
+## Navigation-MultiAgents
+|  Title  |   Date  |   Venue   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [**SoundSpaces: Audio-Visual Navigation in 3D Environments**](https://arxiv.org/pdf/1912.11474) | 2019.12 | ECCV-20 | [GitHub](https://github.com/facebookresearch/sound-spaces) |
 
 
