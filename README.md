@@ -12,14 +12,15 @@
 ## Review
 |  Title  |   Date  |   Venue   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-| 🔥[**Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions**](https://arxiv.org/pdf/2203.12667) | 2022.03 | ACL-22 | [GitHub](https://github.com/eric-ai-lab/awesome-vision-language-navigation) |
+| [**Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions**](https://arxiv.org/pdf/2203.12667) | 2022.03 | ACL-22 | [GitHub](https://github.com/eric-ai-lab/awesome-vision-language-navigation) |
 | [**Advances in Embodied Navigation Using Large Language Models: A Survey**](https://arxiv.org/pdf/2311.00530) | 2023.11 | EAAI-24 | [GitHub](https://github.com/Rongtao-Xu/Awesome-LLM-EN) |
-| 🔥[**Large Multimodal Agents: A Survey**](https://arxiv.org/pdf/2402.15116) | 2024.02 | ArXiv-24 | [GitHub](https://github.com/jun0wanan/awesome-large-multimodal-agents) |
-| 🔥[**A Survey of Object Goal Navigation**](https://ieeexplore.ieee.org/document/10475904) | 2024.03 | TASE-24 |  |
-| 🔥[**Large Language Model based Multi-Agents: A Survey of Progress and Challenges**](https://arxiv.org/pdf/2402.01680) | 2024.04 | IJCAI-24 | [GitHub](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers) |
+| [**Large Multimodal Agents: A Survey**](https://arxiv.org/pdf/2402.15116) | 2024.02 | ArXiv-24 | [GitHub](https://github.com/jun0wanan/awesome-large-multimodal-agents) |
+| [**A Survey of Object Goal Navigation**](https://ieeexplore.ieee.org/document/10475904) | 2024.03 | TASE-24 |  |
+| [**Large Language Model based Multi-Agents: A Survey of Progress and Challenges**](https://arxiv.org/pdf/2402.01680) | 2024.04 | IJCAI-24 | [GitHub](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers) |
 | [**LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions**](https://arxiv.org/pdf/2405.11106) | 2024.05 | IRAL-24 |  |
 | [**Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models**](https://arxiv.org/pdf/2407.07035) | 2024.07 | ArXiv-24 |  |
-| 🔥🔥🔥[**Recent Advances in Robot Navigation via Large Language Models: A Review**](https://www.researchgate.net/publication/384537380_Recent_Advances_in_Robot_Navigation_via_Large_Language_Models_A_Review) | 2024.10 | ArXiv-24 |  |
+| [**Recent Advances in Robot Navigation via Large Language Models: A Review**](https://www.researchgate.net/publication/384537380_Recent_Advances_in_Robot_Navigation_via_Large_Language_Models_A_Review) | 2024.10 | ArXiv-24 |  |
+| [**A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges**](https://link.springer.com/content/pdf/10.1007/s44336-024-00009-2.pdf) | 2024.10 | Vicinagearth-24 | |
 | [**Embodied navigation with multi-modal information: A survey from tasks to methodology**](https://arxiv.org/pdf/2203.12667) | 2024.12 | IF-24 | [GitHub](https://github.com/eric-ai-lab/awesome-vision-language-navigation) |
 
 
@@ -106,8 +107,16 @@
 | Old+Nav | [**Multi-Agent Embodied Visual Semantic Navigation with Scene Prior Knowledge**](https://arxiv.org/pdf/2109.09531) | 2021.09 | ArXiv-21 | 
 | Old+Nav | [**Learning Efficient Multi-Agent Cooperative Visual Exploration**](https://arxiv.org/pdf/2110.05734) | 2021.10 | ECCV-22 | [GitHub](https://github.com/zoeyuchao/maans) |
 | Old+Nav | [**Multi-Robot Active Mapping via Neural Bipartite Graph Matching**](https://arxiv.org/pdf/2203.16319) | 2022.03 | CVPR-22 | [GitHub](https://github.com/siyandong/NeuralCoMapping) |
+| LLM+Gen | [**Building Cooperative Embodied Agents Modularly with Large Language Models**](https://arxiv.org/pdf/2307.02485) | 2023.07 | ICLR-24 | [GitHub](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/) |
 | Old+Nav | [**MASP: Scalable GNN-based Planning for Multi-Agent Navigation**](https://arxiv.org/pdf/2312.02522) | 2023.12 | IRAL-24 | |
 | LLM+Nav | [**Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation**](https://arxiv.org/pdf/2403.08282) | 2023.04 | ICLR-W-23 | |
 | 🔥LLM+Nav | [**Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models**](https://arxiv.org/pdf/2310.07937) | 2023.10 | ArXiv-23 | [GitHub](https://github.com/ybgdgh/Co-NavGPT) |
+| LLM+Gen | [**Embodied LLM Agents Learn to Cooperate in Organized Teams**](https://arxiv.org/pdf/2403.12482) | 2024.03 | ArXiv-24 | [GitHub](https://github.com/tobeatraceur/Organized-LLM-Agents?tab=readme-ov-file) |
 | LLM+Nav | [**CAMON: Cooperative Agents for Multi-Object Navigation with LLM-based Conversations**](https://arxiv.org/pdf/2407.00632) | 2024.06 | ArXiv-24 | |
+| LLM+Gen | [**COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models**](https://arxiv.org/pdf/2403.12482) | 2024.09 | ICRA-25 | [GitHub](https://github.com/MrKeee/COHERENT) |
+| LLM+Gen | [**MHRC: Closed-loop Decentralized Multi-Heterogeneous Robot Collaboration with Large Language Models**](https://arxiv.org/pdf/2403.12482) | 2024.09 | ArXiv-24 | |
+| LLM+Gen | [**CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation**](https://arxiv.org/pdf/2411.04679) | 2024.11 | ArXiv-24 | |
+
+
+
 
