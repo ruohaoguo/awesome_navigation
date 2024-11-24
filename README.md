@@ -73,6 +73,8 @@
 | [**Zero-shot Object Navigation with Vision-Language Models Reasoning**](https://arxiv.org/pdf/2410.18570v1) | 2024.10 | ICPR-24 |  |
 | [**GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance**](https://arxiv.org/pdf/2410.23978) | 2024.10 | NeurIPS-24 | [GitHub](https://github.com/shalexyuan/GAMap) |
 | [**LLM as Copilot for Coarse-Grained Vision-and-Language Navigation**](https://link.springer.com/content/pdf/10.1007/978-3-031-72652-1_27.pdf) | 2024.11 | ECCV-24 |  |
+| [**InstruGen: Automatic Instruction Generation for Vision-and-Language Navigation Via Large Multimodal Models**](https://arxiv.org/pdf/2411.11394) | 2024.11 | ArXiv-24 |  |
+| [**VLN-Game: Vision-Language Equilibrium Search for Zero-Shot Semantic Navigation**](https://arxiv.org/pdf/2411.11609) | 2024.11 | ArXiv-24 | [GitHub](https://github.com/ybgdgh/VLN-Game) |
 
 
 
@@ -98,8 +100,6 @@
 | [**Sim2Real Transfer for Audio-Visual Navigation with Frequency-Adaptive Acoustic Field Prediction**](https://arxiv.org/pdf/2405.02821) | 2024.05 | IROS-24 |  |
 | [**RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_RILA_Reflective_and_Imaginative_Language_Agent_for_Zero-Shot_Semantic_Audio-Visual_CVPR_2024_paper.pdf) | 2024.06 | CVPR-24 |  |
 | [**TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation**](https://www.arxiv.org/pdf/2408.01867) | 2024.08 | IROS-24 |  |
-| [**InstruGen: Automatic Instruction Generation for Vision-and-Language Navigation Via Large Multimodal Models**](https://arxiv.org/pdf/2411.11394) | 2024.11 | ArXiv-24 |  |
-| [**VLN-Game: Vision-Language Equilibrium Search for Zero-Shot Semantic Navigation**](https://arxiv.org/pdf/2411.11609) | 2024.11 | ArXiv-24 | [GitHub](https://github.com/ybgdgh/VLN-Game) |
 
 
 
