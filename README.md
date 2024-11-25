@@ -21,6 +21,7 @@
 | [**Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models**](https://arxiv.org/pdf/2407.07035) | 2024.07 | ArXiv-24 |  |
 | [**Recent Advances in Robot Navigation via Large Language Models: A Review**](https://www.researchgate.net/publication/384537380_Recent_Advances_in_Robot_Navigation_via_Large_Language_Models_A_Review) | 2024.10 | ArXiv-24 |  |
 | [**A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges**](https://link.springer.com/content/pdf/10.1007/s44336-024-00009-2.pdf) | 2024.10 | Vicinagearth-24 | |
+| [**Multi-LLM-Agent Systems: Techniques and Business Perspectives**](https://arxiv.org/pdf/2411.14033) | 2024.11 | ArXiv-24 |  |
 | [**Embodied navigation with multi-modal information: A survey from tasks to methodology**](https://arxiv.org/pdf/2203.12667) | 2024.12 | IF-24 | [GitHub](https://github.com/eric-ai-lab/awesome-vision-language-navigation) |
 
 
