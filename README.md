@@ -5,7 +5,7 @@
 - [Review](#review)
 - [Navigation-LLM](#navigation-llm)
 - [Navigation-AV](#navigation-av)
-- [Multi-Agents](#multi-agents)
+- [Multi-Agents-LLM](#multi-agents-llm)
 ---
 
 
@@ -104,22 +104,18 @@
 
 
 
-## Multi-Agents
+## Multi-Agents-LLM
 | Type |  Title  |   Date  |   Venue   |   Code   |
 | :-------- |:--------|:--------:|:--------:|:--------:|
-| Old+Nav | [**Multi-Agent Embodied Visual Semantic Navigation with Scene Prior Knowledge**](https://arxiv.org/pdf/2109.09531) | 2021.09 | ArXiv-21 | 
-| Old+Nav | [**Learning Efficient Multi-Agent Cooperative Visual Exploration**](https://arxiv.org/pdf/2110.05734) | 2021.10 | ECCV-22 | [GitHub](https://github.com/zoeyuchao/maans) |
-| Old+Nav | [**Multi-Robot Active Mapping via Neural Bipartite Graph Matching**](https://arxiv.org/pdf/2203.16319) | 2022.03 | CVPR-22 | [GitHub](https://github.com/siyandong/NeuralCoMapping) |
-| LLM+Nav | [**Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation**](https://arxiv.org/pdf/2403.08282) | 2023.04 | ICLR-W-23 | |
-| LLM+Gen | [**Building Cooperative Embodied Agents Modularly with Large Language Models**](https://arxiv.org/pdf/2307.02485) | 2023.07 | ICLR-24 | [GitHub](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/) |
-| LLM+Gen | [**ProAgent: Building Proactive Cooperative Agents with Large Language Models**](https://arxiv.org/pdf/2308.11339) | 2023.08 | AAAI-24 | [GitHub](https://github.com/PKU-Alignment/ProAgent) |
-| 🔥LLM+Nav | [**Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models**](https://arxiv.org/pdf/2310.07937) | 2023.10 | ArXiv-23 | [GitHub](https://github.com/ybgdgh/Co-NavGPT) |
-| Old+Nav | [**MASP: Scalable GNN-based Planning for Multi-Agent Navigation**](https://arxiv.org/pdf/2312.02522) | 2023.12 | IRAL-24 | |
-| LLM+Gen | [**Embodied LLM Agents Learn to Cooperate in Organized Teams**](https://arxiv.org/pdf/2403.12482) | 2024.03 | ArXiv-24 | [GitHub](https://github.com/tobeatraceur/Organized-LLM-Agents?tab=readme-ov-file) |
-| LLM+Nav | [**CAMON: Cooperative Agents for Multi-Object Navigation with LLM-based Conversations**](https://arxiv.org/pdf/2407.00632) | 2024.06 | ArXiv-24 | |
-| LLM+Gen | [**COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models**](https://arxiv.org/pdf/2403.12482) | 2024.09 | ICRA-25 | [GitHub](https://github.com/MrKeee/COHERENT) |
-| LLM+Gen | [**MHRC: Closed-loop Decentralized Multi-Heterogeneous Robot Collaboration with Large Language Models**](https://arxiv.org/pdf/2403.12482) | 2024.09 | ArXiv-24 | |
-| LLM+Gen | [**CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation**](https://arxiv.org/pdf/2411.04679) | 2024.11 | ArXiv-24 | |
+| Nav | [**Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation**](https://arxiv.org/pdf/2403.08282) | 2023.04 | ICLR-W-23 | |
+| Gen | [**Building Cooperative Embodied Agents Modularly with Large Language Models**](https://arxiv.org/pdf/2307.02485) | 2023.07 | ICLR-24 | [GitHub](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/) |
+| Gen | [**ProAgent: Building Proactive Cooperative Agents with Large Language Models**](https://arxiv.org/pdf/2308.11339) | 2023.08 | AAAI-24 | [GitHub](https://github.com/PKU-Alignment/ProAgent) |
+| 🔥Nav | [**Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models**](https://arxiv.org/pdf/2310.07937) | 2023.10 | ArXiv-23 | [GitHub](https://github.com/ybgdgh/Co-NavGPT) |
+| Gen | [**Embodied LLM Agents Learn to Cooperate in Organized Teams**](https://arxiv.org/pdf/2403.12482) | 2024.03 | ArXiv-24 | [GitHub](https://github.com/tobeatraceur/Organized-LLM-Agents?tab=readme-ov-file) |
+| Nav | [**CAMON: Cooperative Agents for Multi-Object Navigation with LLM-based Conversations**](https://arxiv.org/pdf/2407.00632) | 2024.06 | ArXiv-24 | |
+| Gen | [**COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models**](https://arxiv.org/pdf/2403.12482) | 2024.09 | ICRA-25 | [GitHub](https://github.com/MrKeee/COHERENT) |
+| Gen | [**MHRC: Closed-loop Decentralized Multi-Heterogeneous Robot Collaboration with Large Language Models**](https://arxiv.org/pdf/2403.12482) | 2024.09 | ArXiv-24 | |
+| Gen | [**CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation**](https://arxiv.org/pdf/2411.04679) | 2024.11 | ArXiv-24 | |
 
 
 
