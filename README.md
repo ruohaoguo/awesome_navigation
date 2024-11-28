@@ -5,7 +5,7 @@
 - [Review](#review)
 - [Navigation-LLM](#navigation-llm)
 - [Navigation-AV](#navigation-av)
-- [MultiAgents](#multiagents)
+- [Multi-Agents](#multi-agents)
 ---
 
 
@@ -104,7 +104,7 @@
 
 
 
-## MultiAgents
+## Multi-Agents
 | Type |  Title  |   Date  |   Venue   |   Code   |
 | :-------- |:--------|:--------:|:--------:|:--------:|
 | Old+Nav | [**Multi-Agent Embodied Visual Semantic Navigation with Scene Prior Knowledge**](https://arxiv.org/pdf/2109.09531) | 2021.09 | ArXiv-21 | 
