@@ -76,6 +76,8 @@
 | [**LLM as Copilot for Coarse-Grained Vision-and-Language Navigation**](https://link.springer.com/content/pdf/10.1007/978-3-031-72652-1_27.pdf) | 2024.11 | ECCV-24 |  |
 | [**InstruGen: Automatic Instruction Generation for Vision-and-Language Navigation Via Large Multimodal Models**](https://arxiv.org/pdf/2411.11394) | 2024.11 | ArXiv-24 |  |
 | [**VLN-Game: Vision-Language Equilibrium Search for Zero-Shot Semantic Navigation**](https://arxiv.org/pdf/2411.11609) | 2024.11 | ArXiv-24 | [GitHub](https://github.com/ybgdgh/VLN-Game) |
+| [**UnitedVLN: Generalizable Gaussian Splatting for Continuous Vision-Language Navigation**](https://arxiv.org/pdf/2411.16053) | 2024.11 | ArXiv-24 |  |
+| [**TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation**](https://arxiv.org/pdf/2411.16425) | 2024.11 | ArXiv-24 |  |
 
 
 
