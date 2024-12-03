@@ -112,12 +112,14 @@
 | Nav | [**Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation**](https://arxiv.org/pdf/2403.08282) | 2023.04 | ICLR-W-23 | |
 | Gen | [**Building Cooperative Embodied Agents Modularly with Large Language Models**](https://arxiv.org/pdf/2307.02485) | 2023.07 | ICLR-24 | [GitHub](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/) |
 | Gen | [**ProAgent: Building Proactive Cooperative Agents with Large Language Models**](https://arxiv.org/pdf/2308.11339) | 2023.08 | AAAI-24 | [GitHub](https://github.com/PKU-Alignment/ProAgent) |
+| Pth | [**Theory of Mind for Multi-Agent Collaboration via Large Language Models**](https://arxiv.org/pdf/2310.10701) | 2023.10 | EMNLP-23 | [GitHub](https://github.com/romanlee6/multi_LLM_comm) |
 | 🔥Nav | [**Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models**](https://arxiv.org/pdf/2310.07937) | 2023.10 | ArXiv-23 | [GitHub](https://github.com/ybgdgh/Co-NavGPT) |
 | Gen | [**Embodied LLM Agents Learn to Cooperate in Organized Teams**](https://arxiv.org/pdf/2403.12482) | 2024.03 | ArXiv-24 | [GitHub](https://github.com/tobeatraceur/Organized-LLM-Agents?tab=readme-ov-file) |
 | Nav | [**CAMON: Cooperative Agents for Multi-Object Navigation with LLM-based Conversations**](https://arxiv.org/pdf/2407.00632) | 2024.06 | ArXiv-24 | |
 | Gen+异构 | [**COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models**](https://arxiv.org/pdf/2409.15146) | 2024.09 | ICRA-25 | [GitHub](https://github.com/MrKeee/COHERENT) |
 | Gen+异构 | [**MHRC: Closed-loop Decentralized Multi-Heterogeneous Robot Collaboration with Large Language Models**](https://arxiv.org/pdf/2409.16030) | 2024.09 | ArXiv-24 | |
 | Gen+异构 | [**EMOS: Embodiment-aware Heterogeneous Multi-robot Operating System with LLM Agents**](https://openreview.net/pdf?id=Ey8KcabBpB) | 2024.10 | ICLR-25 | |
+| Gen | [**An Electoral Approach to Diversify LLM-based Multi-Agent Collective Decision-Making**](https://arxiv.org/pdf/2410.15168) | 2024.10 | EMNLP-24 | [GitHub](https://github.com/xiutian/GEDI) |
 | Gen | [**CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation**](https://arxiv.org/pdf/2411.04679) | 2024.11 | ArXiv-24 | |
 
 
