@@ -100,6 +100,7 @@
 | [**Learning Semantic-Agnostic and Spatial-Aware Representation for Generalizable Visual-Audio Navigation**](https://arxiv.org/pdf/2304.10773) | 2023.04 | IRAL-23 | [GitHub](https://github.com/wwwwwyyyyyxxxxx/SA2GVAN) |
 | [**CAVEN: An Embodied Conversational Agent for Efficient Audio-Visual Navigation in Noisy Environments**](https://arxiv.org/pdf/2306.04047) | 2023.06 | AAAI-24 |  |
 | [**Multi-goal Audio-visual Navigation using Sound Direction Map**](https://arxiv.org/pdf/2308.00219) | 2023.08 | IROS-23 |  |
+| [**Multi-Sense-Rescuer: Multi-Target Audio-Visual Learning and Navigation in Search and Rescue Scenarios**](https://drive.google.com/file/d/1-PiJQ5RuP4PTR1eyCCFEA7Px61QtXerf/view) | 2023.12 | ArXiv-23 | [GitHub](https://github.com/softsys4ai/Multi-Sense-Rescuer) |
 | [**Sim2Real Transfer for Audio-Visual Navigation with Frequency-Adaptive Acoustic Field Prediction**](https://arxiv.org/pdf/2405.02821) | 2024.05 | IROS-24 |  |
 | [**RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_RILA_Reflective_and_Imaginative_Language_Agent_for_Zero-Shot_Semantic_Audio-Visual_CVPR_2024_paper.pdf) | 2024.06 | CVPR-24 |  |
 | [**TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation**](https://www.arxiv.org/pdf/2408.01867) | 2024.08 | IROS-24 |  |
