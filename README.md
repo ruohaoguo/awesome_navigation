@@ -73,6 +73,7 @@
 | [**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**](https://arxiv.org/pdf/2410.02730) | 2024.10 | ArXiv-24 | [GitHub](https://github.com/zhaowei-wang-nlp/DivScene) |
 | [**Zero-shot Object Navigation with Vision-Language Models Reasoning**](https://arxiv.org/pdf/2410.18570v1) | 2024.10 | ICPR-24 |  |
 | [**GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance**](https://arxiv.org/pdf/2410.23978) | 2024.10 | NeurIPS-24 | [GitHub](https://github.com/shalexyuan/GAMap) |
+| [**SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation**](https://arxiv.org/pdf/2410.08189) | 2024.10 | NeurIPS-24 | [GitHub](https://github.com/bagh2178/SG-Nav) |
 | [**LLM as Copilot for Coarse-Grained Vision-and-Language Navigation**](https://link.springer.com/content/pdf/10.1007/978-3-031-72652-1_27.pdf) | 2024.11 | ECCV-24 |  |
 | [**InstruGen: Automatic Instruction Generation for Vision-and-Language Navigation Via Large Multimodal Models**](https://arxiv.org/pdf/2411.11394) | 2024.11 | ArXiv-24 |  |
 | [**VLN-Game: Vision-Language Equilibrium Search for Zero-Shot Semantic Navigation**](https://arxiv.org/pdf/2411.11609) | 2024.11 | ArXiv-24 | [GitHub](https://github.com/ybgdgh/VLN-Game) |
