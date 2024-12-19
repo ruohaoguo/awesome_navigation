@@ -82,6 +82,7 @@
 | [**RoomTour3D: Geometry-Aware Video-Instruction Tuning for Embodied Navigation**](https://arxiv.org/pdf/2412.08591) | 2024.12 | ArXiv-24 | [GitHub](https://github.com/roomtour3d/roomtour3d-NaviLLM) |
 | [**Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method**](https://arxiv.org/pdf/2412.09082) | 2024.12 | ArXiv-24 | [GitHub](https://github.com/HCPLab-SYSU/LH-VLN) |
 | [**Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments**](https://arxiv.org/pdf/2412.10137) | 2024.12 | ArXiv-24 |  |
+| [**CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs**](https://arxiv.org/pdf/2412.10439) | 2024.12 | ArXiv-24 |  |
 
 
 
