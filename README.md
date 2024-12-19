@@ -81,6 +81,7 @@
 | [**TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation**](https://arxiv.org/pdf/2411.16425) | 2024.11 | ArXiv-24 |  |
 | [**RoomTour3D: Geometry-Aware Video-Instruction Tuning for Embodied Navigation**](https://arxiv.org/pdf/2412.08591) | 2024.12 | ArXiv-24 | [GitHub](https://github.com/roomtour3d/roomtour3d-NaviLLM) |
 | [**Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method**](https://arxiv.org/pdf/2412.09082) | 2024.12 | ArXiv-24 | [GitHub](https://github.com/HCPLab-SYSU/LH-VLN) |
+| [**Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments**](https://arxiv.org/pdf/2412.10137) | 2024.12 | ArXiv-24 |  |
 
 
 
