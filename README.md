@@ -127,7 +127,7 @@
 | Gen+异构 | [**EMOS: Embodiment-aware Heterogeneous Multi-robot Operating System with LLM Agents**](https://openreview.net/pdf?id=Ey8KcabBpB) | 2024.10 | ICLR-25 | |
 | Gen | [**An Electoral Approach to Diversify LLM-based Multi-Agent Collective Decision-Making**](https://arxiv.org/pdf/2410.15168) | 2024.10 | EMNLP-24 | [GitHub](https://github.com/xiutian/GEDI) |
 | Gen | [**CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation**](https://arxiv.org/pdf/2411.04679) | 2024.11 | ArXiv-24 | |
-
+| 🔥Nav | [**Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration**](https://arxiv.org/pdf/2412.18292) | 2024.12 | AAAI-24 | [GitHub](https://github.com/FrankZxShen/MCoCoNav) |
 
 
 
