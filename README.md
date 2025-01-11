@@ -6,6 +6,7 @@
 - [Navigation-LLM](#navigation-llm)
 - [Navigation-AV](#navigation-av)
 - [Multi-Agents-LLM](#multi-agents-llm)
+- [Aerial-VLN](#aerial-vln)
 ---
 
 
@@ -83,6 +84,7 @@
 | [**Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method**](https://arxiv.org/pdf/2412.09082) | 2024.12 | ArXiv-24 | [GitHub](https://github.com/HCPLab-SYSU/LH-VLN) |
 | [**Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments**](https://arxiv.org/pdf/2412.10137) | 2024.12 | ArXiv-24 |  |
 | [**CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs**](https://arxiv.org/pdf/2412.10439) | 2024.12 | ArXiv-24 |  |
+| [**OpenIN: Open-Vocabulary Instance-Oriented Navigation in Dynamic Domestic Environments**](https://arxiv.org/pdf/2501.04279) | 2025.01 | ArXiv-24 |  |
 
 
 
@@ -119,7 +121,7 @@
 | Gen | [**Building Cooperative Embodied Agents Modularly with Large Language Models**](https://arxiv.org/pdf/2307.02485) | 2023.07 | ICLR-24 | [GitHub](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/) |
 | Gen | [**ProAgent: Building Proactive Cooperative Agents with Large Language Models**](https://arxiv.org/pdf/2308.11339) | 2023.08 | AAAI-24 | [GitHub](https://github.com/PKU-Alignment/ProAgent) |
 | Pth | [**Theory of Mind for Multi-Agent Collaboration via Large Language Models**](https://arxiv.org/pdf/2310.10701) | 2023.10 | EMNLP-23 | [GitHub](https://github.com/romanlee6/multi_LLM_comm) |
-| 🔥Nav | [**Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models**](https://arxiv.org/pdf/2310.07937) | 2023.10 | ArXiv-23 | [GitHub](https://github.com/ybgdgh/Co-NavGPT) |
+| Nav | [**Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models**](https://arxiv.org/pdf/2310.07937) | 2023.10 | ArXiv-23 | [GitHub](https://github.com/ybgdgh/Co-NavGPT) |
 | Gen | [**Embodied LLM Agents Learn to Cooperate in Organized Teams**](https://arxiv.org/pdf/2403.12482) | 2024.03 | ArXiv-24 | [GitHub](https://github.com/tobeatraceur/Organized-LLM-Agents?tab=readme-ov-file) |
 | Nav | [**CAMON: Cooperative Agents for Multi-Object Navigation with LLM-based Conversations**](https://arxiv.org/pdf/2407.00632) | 2024.06 | ArXiv-24 | |
 | Gen+异构 | [**COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models**](https://arxiv.org/pdf/2409.15146) | 2024.09 | ICRA-25 | [GitHub](https://github.com/MrKeee/COHERENT) |
@@ -127,7 +129,20 @@
 | Gen+异构 | [**EMOS: Embodiment-aware Heterogeneous Multi-robot Operating System with LLM Agents**](https://openreview.net/pdf?id=Ey8KcabBpB) | 2024.10 | ICLR-25 | |
 | Gen | [**An Electoral Approach to Diversify LLM-based Multi-Agent Collective Decision-Making**](https://arxiv.org/pdf/2410.15168) | 2024.10 | EMNLP-24 | [GitHub](https://github.com/xiutian/GEDI) |
 | Gen | [**CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation**](https://arxiv.org/pdf/2411.04679) | 2024.11 | ArXiv-24 | |
-| 🔥Nav | [**Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration**](https://arxiv.org/pdf/2412.18292) | 2024.12 | AAAI-24 | [GitHub](https://github.com/FrankZxShen/MCoCoNav) |
+| Nav | [**Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration**](https://arxiv.org/pdf/2412.18292) | 2024.12 | AAAI-24 | [GitHub](https://github.com/FrankZxShen/MCoCoNav) |
+
+
+
+## Aerial-VLN
+| Title  |   Date  |   Venue   |   Code   |
+| :--------|:--------:|:--------:|:--------:|
+| [**Aerial Vision-and-Dialog Navigation**](https://arxiv.org/pdf/2205.12219) | 2022.05 | ACL-23 | [GitHub](https://github.com/eric-ai-lab/Aerial-Vision-and-Dialog-Navigation) |
+| [**AerialVLN: Vision-and-Language Navigation for UAVs**](https://arxiv.org/pdf/2308.06735) | 2023.08 | ICCV-23 | [GitHub](https://github.com/AirVLN/AirVLN) |
+| [**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching**](https://arxiv.org/pdf/2311.12751) | 2023.11 | ECCV-24 | [GitHub](https://github.com/MultimodalGeo/GeoText-1652) |
+| [**CityNav: Language-Goal Aerial Navigation Dataset with Geographic Information**](https://arxiv.org/pdf/2406.14240) | 2024.06 | ArXiv-24 | [GitHub](https://github.com/water-cookie/citynav) |
+| [**AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models**](https://arxiv.org/pdf/2408.15511) | 2024.08 | ArXiv-24 |  |
+| [**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**](https://arxiv.org/pdf/2410.07087) | 2024.10 | ICLR-25 |  |
+| [**EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment**](https://arxiv.org/abs/2410.09604) | 2024.10 | ArXiv-24 | [GitHub](https://github.com/tsinghua-fib-lab/EmbodiedCity) |
 
 
 
