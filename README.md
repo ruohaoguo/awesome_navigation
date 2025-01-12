@@ -143,6 +143,7 @@
 | [**AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models**](https://arxiv.org/pdf/2408.15511) | 2024.08 | ArXiv-24 |  |
 | [**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**](https://arxiv.org/pdf/2410.07087) | 2024.10 | ICLR-25 |  |
 | [**EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment**](https://arxiv.org/abs/2410.09604) | 2024.10 | ArXiv-24 | [GitHub](https://github.com/tsinghua-fib-lab/EmbodiedCity) |
+| [**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**](https://arxiv.org/pdf/2412.20977) | 2024.12 | ArXiv-24 | [GitHub](https://github.com/UnrealZoo/unrealzoo-gym) |
 
 
 
